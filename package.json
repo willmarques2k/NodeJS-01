@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "chalk": "^5.0.1"
-  }
+  },
+  "name": "nodejs-01",
+  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000J\u0000S\u0000-\u00000\u00001\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willmarques2k/NodeJS-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willmarques2k/NodeJS-01/issues"
+  },
+  "homepage": "https://github.com/willmarques2k/NodeJS-01#readme"
 }
